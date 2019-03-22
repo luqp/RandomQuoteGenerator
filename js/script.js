@@ -2,9 +2,7 @@
 Treehouse FSJS Techdegree:
 project 1 - A Random Quote Generator
 ******************************************/
-/* Thank you for lessons of Unit 1, I really enjoyed  
-   I hope to  "Exceeds Expectations" grade.
-*/
+
 // Variables: (The array is in another Data Page)
 var message = '';
 var timeOut;
