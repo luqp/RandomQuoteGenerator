@@ -107,15 +107,24 @@ body {
   }
 }
 
-.tags {
+/*-- Style to quotes' characteristics  --*/
+
+ul.tags {
+  list-style: none;
+  padding-left: 0px;
+  display: flex;
+  position: absolute;
+  top: -7rem;
+  left: -2.75rem;
+}
+
+.tags li {
   font-family: Helvetica;
-  font-size: 1rem;
-  color: #fff;
-  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
   letter-spacing: 1px;
+  color: #fff;
+  padding: 0.75rem 0.875rem;
+  margin-right: 1rem;
   border: 1px solid white;
   border-radius: 30px;
-  position: absolute;
-  top: -5rem;
-  left: -2.75rem;
 }
